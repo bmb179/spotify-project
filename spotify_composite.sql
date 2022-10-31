@@ -74,7 +74,7 @@ FROM spotify_prem_import, spotify_stats
 WHERE spotify_free_query.quarter <> 'Q4 2014'
 ORDER BY spotify_free_query.quarter_end ASC;
 
---EXPORT THIS TO SEE SIGNIFICANT Z-SCORES IN A TABLE
+--EXPORT
 COPY (
 
 )
