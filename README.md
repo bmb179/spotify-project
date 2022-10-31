@@ -5,3 +5,4 @@ To analyze trends in Spotify free and premium user growth.
 - Replace the /directory/ placeholder in the COPY statements with the destination directory of this repo.
 
 Companion analysis with visualizations to come in corresponding Substack article
+https://dataalchemy.substack.com/
